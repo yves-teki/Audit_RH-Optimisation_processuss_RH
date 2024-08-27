@@ -21,10 +21,6 @@ securité et santé au travail , articulation des temps .
     - Automatisation de l'analyses et tests statistiques ( student, fisher )
     - Automatisation des graphiques de sortie 
 
-  - 4. test et maintenance
-      maintenance et integration de nouveaux indicateurs
-
-
 
 Outils utilisés :
 -Knime
